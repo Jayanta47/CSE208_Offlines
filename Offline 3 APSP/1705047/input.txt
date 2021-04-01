@@ -1,0 +1,11 @@
+5 9
+Dhaka Khulna 3
+Dhaka Rajshahi 8
+Dhaka Sylhet -4
+Khulna Barisal 1
+Khulna Sylhet 7
+Rajshahi Khulna 4
+Barisal Dhaka 2
+Barisal Rajshahi -5
+Sylhet Barisal 6
+1 5

@@ -1,0 +1,5 @@
+Shortest Path Weight: 36
+Path: 1 --> 2(4) --> 3(10) --> 4(20) --> 5(2)
+Shortest Path Weight: 12
+Path: 7 --> 3(5) --> 6(7)
+No path from 5 to 6 through 3
